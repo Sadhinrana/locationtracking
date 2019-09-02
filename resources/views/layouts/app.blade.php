@@ -22,7 +22,7 @@
 
     <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
     {{--    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyADRsYk33UB96y2xx-nQ4MvVJQOo0_LfKM&libraries=places" async defer></script>--}}
-    <script type="text/javascript" src='http://maps.google.com/maps/api/js?key=AIzaSyADRsYk33UB96y2xx-nQ4MvVJQOo0_LfKM&sensor=false&libraries=places'></script>
+    <script type="text/javascript" src='http://maps.google.com/maps/api/js?key=AIzaSyAT2Um_rjxDtDkMDjOZApF9HGbqP740n6I&sensor=false&libraries=places'></script>
     <script src="{{ asset('js/location.js') }}" defer></script>
 
 </head>
